@@ -21,15 +21,15 @@
   A group project built with Prolog to simulate Pokémon-style turn-based gameplay.  
   Includes dynamic map, player movement, battle mechanics, and custom logic predicates.
 
-- [😴 Drowsiness Detection System (Python Mediapipe)](https://github.com/YOURUSERNAME/YOUR-PROJECT)  
-  Utilized Python's Mediapipe to detect eye closure and head position to monitor student alertness.
+- [🏥 Hospital Management System in C](https://github.com/Akram17t/praktikum-if2210-structure-data-hospital)  
+  A CLI-based system written in C to manage hospital operations including patient data, user access (admin/doctor), diagnosis, prescription, and CSV-based data loading/saving.
+
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 Finalist OSN Informatika
-- 🧠 Active participant in competitive programming contests
+- 🥇 Finalist OSN Informatika 2x
 
 ---
 
