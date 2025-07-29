@@ -9,7 +9,7 @@
 
 ### 🔧 Tech Stack & Tools
 
-- **Languages:** C, C++, Python, JavaScript, Prolog  
+- **Languages:** C, C++, Python, Prolog  
 - **Tools:** Git, VSCode, Linux, GDB, Figma  
 - **Currently learning:** Web Development (Next.js, Tailwind), Embedded Systems (Arduino)
 
@@ -35,7 +35,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/nashiruddin-akram-8a814b348](https://www.linkedin.com/in/nashiruddin-akram-8a814b348/)
+- 💼 LinkedIn: [linkedin.com/in/nashiruddin-akram](https://www.linkedin.com/in/nashiruddin-akram-8a814b348/)
 - 💻 GitHub: [github.com/Akram17t](https://github.com/Akram17t)
 
 ---
