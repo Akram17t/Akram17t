@@ -10,8 +10,8 @@
 ### 🔧 Tech Stack & Tools
 
 - **Languages:** C, C++, Python, Prolog  
-- **Tools:** Git, VSCode, Linux, GDB, Figma  
-- **Currently learning:** Web Development (Next.js, Tailwind), Embedded Systems (Arduino)
+- **Tools:** Git, VSCode
+- **Currently learning:** Web Development 
 
 ---
 
