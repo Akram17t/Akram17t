@@ -1,4 +1,8 @@
-![Nashiruddin Akram — AI and Backend Development](assets/header.svg)
+<p align="center">
+  <img src="assets/hello.gif" alt="Hi, My name is Akram" width="100%" />
+</p>
+
+Currently, I’m an **Informatics Engineering student at Institut Teknologi Bandung**, exploring applied AI, backend development, and competitive programming. Previously, I worked as an **AI Engineer Intern at ICS Compute**, where I built an end-to-end HR Assistant chatbot for HR policies and SOPs. I enjoy turning ideas into useful applications and sharpening my problem-solving skills along the way.
 
 <p>
   <a href="https://www.linkedin.com/in/nashiruddin-akram/"><img src="assets/linkedin.svg" alt="Connect on LinkedIn" width="174" height="38" /></a>
@@ -6,13 +10,16 @@
   <a href="mailto:akrambaasir@gmail.com"><img src="assets/email.svg" alt="Email Akram" width="144" height="38" /></a>
 </p>
 
-### About me
+## Achievements
 
-- Informatics Engineering student at **Institut Teknologi Bandung**.
-- Previously **AI Engineer Intern at ICS Compute**, building an end-to-end HR Assistant chatbot.
-- Interested in **applied AI, backend development, and competitive programming**.
+<img src="assets/achievements.svg" alt="ICPC Jakarta Regional Finalist 2025 · 2× OSN National Finalist 2022 and 2023" width="100%" />
 
-### Tech stack
+## GitHub dashboard
+
+<a href="https://github.com/Akram17t?tab=repositories"><img src="assets/dashboard.svg" alt="Akram’s GitHub dashboard: repository overview, language distribution, monthly contributions, and contribution calendar" width="100%" /></a>
+
+## Tech stack
+
 
 **Languages**
 
@@ -30,48 +37,15 @@
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-### Selected projects
+## Selected projects
 
-- **HR Assistant** — AI-powered Q&A for HR policies and SOPs. [Internship notes →](https://github.com/Akram17t/Internship)
-- **[DOMichelis](https://github.com/Akram17t/Tubes2_Manchester-City)** — DOM traversal and CSS selector matching with BFS and DFS.
-- **[Eigenfaces](https://github.com/Akram17t/FaceRecognition-IRK)** — A face recognition web app with a Python backend.
-- **[N-Queens Solver](https://github.com/Akram17t/Tucil1_13524090)** — C++ backtracking with coloring constraints and a live web visualization.
+| Project | What I built |
+| :--- | :--- |
+| **[HR Assistant](https://github.com/Akram17t/Internship)** | AI-powered Q&A for HR policies and SOPs, with an end-to-end RAG pipeline. |
+| **[DOMichelis](https://github.com/Akram17t/Tubes2_Manchester-City)** | DOM traversal and CSS selector matching with BFS and DFS. |
+| **[Eigenfaces](https://github.com/Akram17t/FaceRecognition-IRK)** | A face recognition web app with a Python backend. |
+| **[N-Queens Solver](https://github.com/Akram17t/Tucil1_13524090)** | C++ backtracking with coloring constraints and a live web visualization. |
 
-<details>
-<summary>More projects</summary>
+## Certifications
 
-- **[CommunityMap](https://github.com/Akram17t/CommunityMap)** — Crowdsourced reports of public infrastructure and road conditions.
-- **[AutoKey](https://github.com/Akram17t/Autokey-IRK)** — Indonesian autocomplete and spell-checking with FastAPI and Next.js.
-- **[The Great Wrap](https://github.com/Akram17t/ConvexHull-IRK)** — Interactive convex hull visualization with React and TypeScript.
-- **[Wayfinder3D](https://github.com/Akram17t/PathFinding3D-IRK)** — 3D pathfinding visualization with Rust, WebAssembly, and Svelte.
-- **[Judol Detector](https://github.com/Akram17t/Tubes3_Komisi-Pemberantas-Judol)** — Browser extension with text matching and image OCR.
-
-</details>
-
-### Achievements
-
-- **Finalist**, ICPC Asia Jakarta Regional Contest — 2025.
-- **2× National Finalist**, Indonesian Olympiad in Informatics (OSN) — 2022 & 2023.
-- **Bronze Award**, American Mathematics Olympiad — 2018.
-
-<details>
-<summary>More awards</summary>
-
-- **2nd Place**, Research Science Competition, NFBS Serang — 2023. Built a student drowsiness detection project with Python and MediaPipe.
-- **2nd Place**, Informatics Olympiad, Banten Province — 2023.
-- **7th Place**, Informatics Olympiad, Banten Province — 2022.
-- **Gold Medal**, Online Madrasa Science Competition, POSI — 2020.
-- **1st Place**, Mathematics Olympiad, Serang Regency — 2019.
-
-</details>
-
-### Certifications
-
-- **AWS Certified Solutions Architect – Associate**
-- **AWS Certified AI Practitioner**
-
-### GitHub
-
-[![Akram17t — public GitHub snapshot](assets/github-snapshot.svg)](https://github.com/Akram17t)
-
-<!-- Skill icons: https://github.com/tandpfun/skill-icons (MIT). GitHub figures are a verified snapshot dated 6 October 2026. -->
+**AWS Certified Solutions Architect – Associate** · **AWS Certified AI Practitioner**
