@@ -1,4 +1,8 @@
-![Nashiruddin Akram — AI and Backend Development](assets/header.svg)
+<p>
+  <img src="assets/handwritten.gif" alt="Hi, my name is Akram." width="700" />
+</p>
+
+Currently, I’m an **Informatics Engineering student at Institut Teknologi Bandung**, exploring applied AI, backend development, and competitive programming. Previously, I worked as an **AI Engineer Intern at ICS Compute**, where I built an end-to-end HR Assistant chatbot for HR policies and SOPs. I enjoy turning ideas into useful applications and sharpening my problem-solving skills along the way.
 
 <p>
   <a href="https://www.linkedin.com/in/nashiruddin-akram/"><img src="assets/linkedin.svg" alt="Connect on LinkedIn" width="174" height="38" /></a>
@@ -6,13 +10,7 @@
   <a href="mailto:akrambaasir@gmail.com"><img src="assets/email.svg" alt="Email Akram" width="144" height="38" /></a>
 </p>
 
-### About me
-
-- Informatics Engineering student at **Institut Teknologi Bandung**.
-- Previously **AI Engineer Intern at ICS Compute**, building an end-to-end HR Assistant chatbot.
-- Interested in **applied AI, backend development, and competitive programming**.
-
-### Tech stack
+## Tech stack
 
 **Languages**
 
@@ -30,12 +28,19 @@
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-### Selected projects
+### Achievements
 
-- **HR Assistant** — AI-powered Q&A for HR policies and SOPs. [Internship notes →](https://github.com/Akram17t/Internship)
-- **[DOMichelis](https://github.com/Akram17t/Tubes2_Manchester-City)** — DOM traversal and CSS selector matching with BFS and DFS.
-- **[Eigenfaces](https://github.com/Akram17t/FaceRecognition-IRK)** — A face recognition web app with a Python backend.
-- **[N-Queens Solver](https://github.com/Akram17t/Tucil1_13524090)** — C++ backtracking with coloring constraints and a live web visualization.
+- Finalist, ICPC Asia Jakarta Regional Contest — 2025.
+- 2× National Finalist, Indonesian Olympiad in Informatics (OSN) — 2022 & 2023.
+
+## Selected projects
+
+| Project | What I built |
+| :--- | :--- |
+| **[HR Assistant](https://github.com/Akram17t/Internship)** | AI-powered Q&A for HR policies and SOPs, with an end-to-end RAG pipeline. |
+| **[DOMichelis](https://github.com/Akram17t/Tubes2_Manchester-City)** | DOM traversal and CSS selector matching with BFS and DFS. |
+| **[Eigenfaces](https://github.com/Akram17t/FaceRecognition-IRK)** | A face recognition web app with a Python backend. |
+| **[N-Queens Solver](https://github.com/Akram17t/Tucil1_13524090)** | C++ backtracking with coloring constraints and a live web visualization. |
 
 <details>
 <summary>More projects</summary>
@@ -48,30 +53,12 @@
 
 </details>
 
-### Achievements
 
-- **Finalist**, ICPC Asia Jakarta Regional Contest — 2025.
-- **2× National Finalist**, Indonesian Olympiad in Informatics (OSN) — 2022 & 2023.
-- **Bronze Award**, American Mathematics Olympiad — 2018.
+## GitHub stats
 
-<details>
-<summary>More awards</summary>
-
-- **2nd Place**, Research Science Competition, NFBS Serang — 2023. Built a student drowsiness detection project with Python and MediaPipe.
-- **2nd Place**, Informatics Olympiad, Banten Province — 2023.
-- **7th Place**, Informatics Olympiad, Banten Province — 2022.
-- **Gold Medal**, Online Madrasa Science Competition, POSI — 2020.
-- **1st Place**, Mathematics Olympiad, Serang Regency — 2019.
-
-</details>
-
-### Certifications
-
-- **AWS Certified Solutions Architect – Associate**
-- **AWS Certified AI Practitioner**
-
-### GitHub
-
-[![Akram17t — public GitHub snapshot](assets/github-snapshot.svg)](https://github.com/Akram17t)
-
-<!-- Skill icons: https://github.com/tandpfun/skill-icons (MIT). GitHub figures are a verified snapshot dated 6 October 2026. -->
+<p>
+  <img src="https://streak-stats.demolab.com?user=Akram17t&amp;theme=radical&amp;hide_border=true" alt="GitHub contribution streak" width="495" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akram17t&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;hide_rank=true" alt="Akram's GitHub stats" />
+</p>
