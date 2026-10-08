@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="244" viewBox="0 0 1280 244" role="img" aria-labelledby="title desc">
+<title id="title">Selected achievements</title><desc id="desc">ICPC Asia Jakarta Regional Contest finalist in 2025. Two-time national finalist in the Indonesian Olympiad in Informatics in 2022 and 2023.</desc>
+<defs><linearGradient id="a"><stop stop-color="#172539"/><stop offset="1" stop-color="#0d1420"/></linearGradient><linearGradient id="b"><stop stop-color="#21213a"/><stop offset="1" stop-color="#0d1420"/></linearGradient></defs>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<rect x="1" y="1" width="626" height="242" rx="20" fill="url(#a)" stroke="#34465e"/>
+<rect x="653" y="1" width="626" height="242" rx="20" fill="url(#b)" stroke="#423c61"/>
+<rect x="32" y="30" width="131" height="32" rx="16" fill="#233d47"/>
+<text x="98" y="52" text-anchor="middle" font-size="17" fill="#63e6ce" font-weight="700">FINALIST</text>
+<text x="596" y="53" text-anchor="end" font-size="20" fill="#8d9aaf">2025</text>
+<text x="31" y="131" font-size="66" font-weight="700" fill="#f2f6fc">ICPC</text>
+<text x="33" y="178" font-size="25" fill="#dce6f2">Asia Jakarta Regional Contest</text>
+<text x="33" y="211" font-size="18" fill="#93a4ba">International Collegiate Programming Contest</text>
+<rect x="685" y="30" width="206" height="32" rx="16" fill="#37304e"/>
+<text x="788" y="52" text-anchor="middle" font-size="17" fill="#c2b6ff" font-weight="700">NATIONAL FINALIST</text>
+<text x="1246" y="53" text-anchor="end" font-size="20" fill="#8d9aaf">2022 / 2023</text>
+<text x="684" y="131" font-size="66" font-weight="700" fill="#c2b6ff">2×</text>
+<text x="795" y="128" font-size="55" font-weight="700" fill="#f2f6fc">OSN</text>
+<text x="685" y="178" font-size="25" fill="#dce6f2">Indonesian Olympiad in Informatics</text>
+<text x="685" y="211" font-size="18" fill="#93a4ba">Two consecutive national finals</text>
+</g></svg>
