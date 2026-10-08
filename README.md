@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="assets/hello.gif" alt="Hi, My name is Akram" width="100%" />
+<p>
+  <img src="assets/handwritten.gif" alt="Hi, my name is Akram." width="700" />
 </p>
 
 Currently, I’m an **Informatics Engineering student at Institut Teknologi Bandung**, exploring applied AI, backend development, and competitive programming. Previously, I worked as an **AI Engineer Intern at ICS Compute**, where I built an end-to-end HR Assistant chatbot for HR policies and SOPs. I enjoy turning ideas into useful applications and sharpening my problem-solving skills along the way.
@@ -10,16 +10,7 @@ Currently, I’m an **Informatics Engineering student at Institut Teknologi Band
   <a href="mailto:akrambaasir@gmail.com"><img src="assets/email.svg" alt="Email Akram" width="144" height="38" /></a>
 </p>
 
-## Achievements
-
-<img src="assets/achievements.svg" alt="ICPC Jakarta Regional Finalist 2025 · 2× OSN National Finalist 2022 and 2023" width="100%" />
-
-## GitHub dashboard
-
-<a href="https://github.com/Akram17t?tab=repositories"><img src="assets/dashboard.svg" alt="Akram’s GitHub dashboard: repository overview, language distribution, monthly contributions, and contribution calendar" width="100%" /></a>
-
 ## Tech stack
-
 
 **Languages**
 
@@ -37,6 +28,11 @@ Currently, I’m an **Informatics Engineering student at Institut Teknologi Band
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
+### Achievements
+
+- Finalist, ICPC Asia Jakarta Regional Contest — 2025.
+- 2× National Finalist, Indonesian Olympiad in Informatics (OSN) — 2022 & 2023.
+
 ## Selected projects
 
 | Project | What I built |
@@ -46,6 +42,28 @@ Currently, I’m an **Informatics Engineering student at Institut Teknologi Band
 | **[Eigenfaces](https://github.com/Akram17t/FaceRecognition-IRK)** | A face recognition web app with a Python backend. |
 | **[N-Queens Solver](https://github.com/Akram17t/Tucil1_13524090)** | C++ backtracking with coloring constraints and a live web visualization. |
 
+<details>
+<summary>More projects</summary>
+
+- **[CommunityMap](https://github.com/Akram17t/CommunityMap)** — Crowdsourced reports of public infrastructure and road conditions.
+- **[AutoKey](https://github.com/Akram17t/Autokey-IRK)** — Indonesian autocomplete and spell-checking with FastAPI and Next.js.
+- **[The Great Wrap](https://github.com/Akram17t/ConvexHull-IRK)** — Interactive convex hull visualization with React and TypeScript.
+- **[Wayfinder3D](https://github.com/Akram17t/PathFinding3D-IRK)** — 3D pathfinding visualization with Rust, WebAssembly, and Svelte.
+- **[Judol Detector](https://github.com/Akram17t/Tubes3_Komisi-Pemberantas-Judol)** — Browser extension with text matching and image OCR.
+
+</details>
+
 ## Certifications
 
-**AWS Certified Solutions Architect – Associate** · **AWS Certified AI Practitioner**
+- AWS Certified Solutions Architect – Associate
+- AWS Certified AI Practitioner
+- [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/cc31ae86-9e40-434c-9374-daa00c6881d4) — [Verify credential](https://www.credly.com/badges/cc31ae86-9e40-434c-9374-daa00c6881d4)
+
+## GitHub stats
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Akram17t&amp;theme=radical&amp;hide_border=true" alt="GitHub contribution streak" width="495" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akram17t&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;hide_rank=true" alt="Akram's GitHub stats" />
+</p>
