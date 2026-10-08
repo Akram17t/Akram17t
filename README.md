@@ -5,9 +5,9 @@
 Currently, I’m an **Informatics Engineering student at Institut Teknologi Bandung**, exploring applied AI, backend development, and competitive programming. Previously, I worked as an **AI Engineer Intern at ICS Compute**, where I built an end-to-end HR Assistant chatbot for HR policies and SOPs. I enjoy turning ideas into useful applications and sharpening my problem-solving skills along the way.
 
 <p>
-  <a href="https://www.linkedin.com/in/nashiruddin-akram/"><img src="assets/linkedin.svg" alt="Connect on LinkedIn" width="174" height="38" /></a>
+  <a href="https://www.linkedin.com/in/nashiruddin-akram/"><img src="assets/linkedin.svg" width="174" height="38" /></a>
   &nbsp;
-  <a href="mailto:akrambaasir@gmail.com"><img src="assets/email.svg" alt="Email Akram" width="144" height="38" /></a>
+  <a href="mailto:akrambaasir@gmail.com"><img src="assets/email.svg" width="144" height="38" /></a>
 </p>
 
 ## Tech stack
