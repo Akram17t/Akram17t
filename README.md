@@ -53,11 +53,6 @@ Currently, I’m an **Informatics Engineering student at Institut Teknologi Band
 
 </details>
 
-## Certifications
-
-- AWS Certified Solutions Architect – Associate
-- AWS Certified AI Practitioner
-- [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/cc31ae86-9e40-434c-9374-daa00c6881d4) — [Verify credential](https://www.credly.com/badges/cc31ae86-9e40-434c-9374-daa00c6881d4)
 
 ## GitHub stats
 
